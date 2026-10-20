@@ -18,22 +18,63 @@
     "Nature Food"
   ],
   "creators": [
-    {"name": "Gao, Baocai", "affiliation": "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory for Sustainable Utilization of Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong 666100, China"},
-    {"name": "Xiao, Mingxia", "affiliation": "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory for Sustainable Utilization of Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong 666100, China"},
-    {"name": "Sun, Mingfa", "affiliation": "College of Agriculture and Forestry Sciences, Linyi University, Linyi 276000, China"},
-    {"name": "Xing, Jinyi", "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China; Peanut High-Value Processing Engineering Research Center of Shandong Province, Linyi 276000, China"},
-    {"name": "Wang, Yan", "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China"},
-    {"name": "Zhou, Lei", "affiliation": "Linyi Animal Disease Prevention and Control Center, Linyi 276000, China"},
-    {"name": "Kang, Dacheng", "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China"},
-    {"name": "Hu, Jing", "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China"},
-    {"name": "Mahfuz, Shad", "affiliation": "Department of Animal Nutrition, Faculty of Veterinary, Animal and Biomedical Sciences, Sylhet Agricultural University, Sylhet 3100, Bangladesh"},
-    {"name": "Zhang, Qianqian", "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China; Functional Pet Food Engineering Research Center of Shandong Province, Linyi 276000, China"},
-    {"name": "Zhang, Jianying", "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China; Shandong Key Laboratory of Biological Preparation and Application Technology for Functional Glycomics, Linyi 276000, China"}
+    {
+      "name": "Gao, Baocai",
+      "affiliation": "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory for Sustainable Utilization of Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong 666100, China"
+    },
+    {
+      "name": "Xiao, Mingxia",
+      "affiliation": "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory for Sustainable Utilization of Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong 666100, China"
+    },
+    {
+      "name": "Sun, Mingfa",
+      "affiliation": "College of Agriculture and Forestry Sciences, Linyi University, Linyi 276000, China"
+    },
+    {
+      "name": "Xing, Jinyi",
+      "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China; Peanut High-Value Processing Engineering Research Center of Shandong Province, Linyi 276000, China"
+    },
+    {
+      "name": "Wang, Yan",
+      "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China"
+    },
+    {
+      "name": "Zhou, Lei",
+      "affiliation": "Linyi Animal Disease Prevention and Control Center, Linyi 276000, China"
+    },
+    {
+      "name": "Kang, Dacheng",
+      "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China"
+    },
+    {
+      "name": "Hu, Jing",
+      "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China"
+    },
+    {
+      "name": "Mahfuz, Shad",
+      "affiliation": "Department of Animal Nutrition, Faculty of Veterinary, Animal and Biomedical Sciences, Sylhet Agricultural University, Sylhet 3100, Bangladesh"
+    },
+    {
+      "name": "Zhang, Qianqian",
+      "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China; Functional Pet Food Engineering Research Center of Shandong Province, Linyi 276000, China"
+    },
+    {
+      "name": "Zhang, Jianying",
+      "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China; Shandong Key Laboratory of Biological Preparation and Application Technology for Functional Glycomics, Linyi 276000, China"
+    }
   ],
   "related_identifiers": [
-    {"identifier": "https://github.com/670646834-droid/livestock-heatstress-global", "relation": "isSupplementedBy", "scheme": "url"},
-    {"identifier": "10.5281/zenodo.23476982", "relation": "isVersionOf", "scheme": "doi"}
+    {
+      "identifier": "https://github.com/670646834-droid/livestock-heatstress-global",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.23476982",
+      "relation": "isVersionOf",
+      "scheme": "doi"
+    }
   ],
   "communities": [],
-  "notes": "This version (v5, 2026-10-20) adds the corrected US NASS panel and model comparison (Supplementary Data 4-5), the NASS reanalysis script, a data dictionary, the validated loss series used in the manuscript (289.57/27.32/262.25 billion USD, 9.4% avoidable), and corrected figure/data descriptions. It supersedes the 2026-10-19 deposit."
+  "notes": "This version (v5, 2026-10-20; DOI 10.5281/zenodo.23489005) adds the corrected US NASS panel and model comparison (Supplementary Data 4-5), the NASS reanalysis script, a data dictionary, the validated loss series used in the manuscript (US$289.57/27.32/262.25 billion, 9.4% avoidable), and corrected figure/data descriptions. It supersedes the 2026-10-19 deposit; the concept DOI is 10.5281/zenodo.23476982."
 }
