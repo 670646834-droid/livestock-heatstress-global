@@ -77,7 +77,9 @@ two public input tables are placed at the paths configured at the top of the scr
 
 ## Data and code availability
 
-- Archived data and code: **Zenodo**, https://doi.org/10.5281/zenodo.23476983 (CC BY 4.0)
+- Archived data and code (latest version v5.0, 2026-10-20): **Zenodo**, https://doi.org/10.5281/zenodo.23489005
+- Concept DOI (always resolves to the latest version): https://doi.org/10.5281/zenodo.23476982
+- Licence: CC BY 4.0
 - Code repository: this GitHub repository
 - Internal review history and the revised manuscript package are available from the corresponding authors.
 
