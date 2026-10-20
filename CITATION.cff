@@ -1,0 +1,79 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the manuscript and the archived record."
+title: "Global livestock heat-stress losses with endogenized adaptation feasibility (2000-2024): data and code"
+version: "5.0"
+doi: "10.5281/zenodo.23476983"
+date-released: "2026-10-20"
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+repository-code: "https://github.com/670646834-droid/livestock-heatstress-global"
+url: "https://doi.org/10.5281/zenodo.23476983"
+keywords:
+  - livestock
+  - heat stress
+  - climate change adaptation
+  - economic losses
+  - methane
+  - threshold dose-response
+  - Nature Food
+authors:
+  - family-names: Gao
+    given-names: Baocai
+    affiliation: "Yunnan Institute of Tropical Crops, Jinghong, China"
+  - family-names: Xiao
+    given-names: Mingxia
+    affiliation: "Yunnan Institute of Tropical Crops, Jinghong, China"
+  - family-names: Sun
+    given-names: Mingfa
+    affiliation: "College of Agriculture and Forestry Sciences, Linyi University, Linyi, China"
+  - family-names: Xing
+    given-names: Jinyi
+    affiliation: "College of Life Sciences, Linyi University, Linyi, China"
+  - family-names: Wang
+    given-names: Yan
+    affiliation: "College of Life Sciences, Linyi University, Linyi, China"
+  - family-names: Zhou
+    given-names: Lei
+    affiliation: "Linyi Animal Disease Prevention and Control Center, Linyi, China"
+  - family-names: Kang
+    given-names: Dacheng
+    affiliation: "College of Life Sciences, Linyi University, Linyi, China"
+  - family-names: Hu
+    given-names: Jing
+    affiliation: "College of Life Sciences, Linyi University, Linyi, China"
+  - family-names: Mahfuz
+    given-names: Shad
+    affiliation: "Department of Animal Nutrition, Sylhet Agricultural University, Sylhet, Bangladesh"
+  - family-names: Zhang
+    given-names: Qianqian
+    affiliation: "College of Life Sciences, Linyi University, Linyi, China"
+  - family-names: Zhang
+    given-names: Jianying
+    affiliation: "College of Life Sciences, Linyi University, Linyi, China"
+preferred-citation:
+  type: article
+  title: "Cost-effective adaptation can avert less than one-tenth of global livestock heat-stress losses"
+  authors:
+    - family-names: Gao
+      given-names: Baocai
+    - family-names: Xiao
+      given-names: Mingxia
+    - family-names: Sun
+      given-names: Mingfa
+    - family-names: Xing
+      given-names: Jinyi
+    - family-names: Wang
+      given-names: Yan
+    - family-names: Zhou
+      given-names: Lei
+    - family-names: Kang
+      given-names: Dacheng
+    - family-names: Hu
+      given-names: Jing
+    - family-names: Mahfuz
+      given-names: Shad
+    - family-names: Zhang
+      given-names: Qianqian
+    - family-names: Zhang
+      given-names: Jianying
+  journal: "Nature Food (manuscript, 2026)"

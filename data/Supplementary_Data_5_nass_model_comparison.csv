@@ -1,0 +1,17 @@
+fixed_effects,model,breakpoint_THI,n,k,RSS,AIC,delta_AIC,slope_below,slope_above,p_slope_change,note
+state+month+year,linear,,3144,48,89089659.3,32327.98,0.0,3.198,3.198,,baseline
+state+month+year,"two-segment (continuous hinge, kappa by profile LS)",63.1,3144,50,87440020.8,32273.22,54.76,2.203,-9.989,2.15e-14,kappa counted as estimated parameter; R2 = 0.9531
+state+month+year,"two-segment, fixed breakpoint 63.1",63.1,3144,49,87440020.8,32271.22,56.76,2.203,-9.989,,kappa fixed
+state+month+year,"two-segment, fixed breakpoint 63.2",63.2,3144,49,87440872.5,32271.25,56.73,2.192,-10.033,,kappa fixed
+state+month+year,"two-segment, fixed breakpoint 68.5",68.5,3144,49,87717531.2,32281.18,46.8,1.763,-13.884,,kappa fixed
+state+time,linear,,3144,171,23816419.0,28426.2,0.0,4.0,4.0,,baseline
+state+time,"two-segment (continuous hinge, kappa by profile LS)",61.0,3144,173,22587714.1,28263.67,162.53,3.103,-7.125,0.00e+00,kappa counted as estimated parameter; R2 = 0.9879
+state+time,"two-segment, fixed breakpoint 63.1",63.1,3144,172,22590410.4,28262.04,164.16,2.862,-7.912,,kappa fixed
+state+time,"two-segment, fixed breakpoint 63.2",63.2,3144,172,22590274.1,28262.02,164.18,2.852,-7.954,,kappa fixed
+state+time,"two-segment, fixed breakpoint 68.5",68.5,3144,172,22839978.5,28296.59,129.62,2.518,-10.966,,kappa fixed
+state+year,linear,,3144,37,95445438.0,32522.64,0.0,0.149,0.149,,baseline
+state+year,"two-segment (continuous hinge, kappa by profile LS)",67.6,3144,39,94115382.0,32482.52,40.12,0.917,-10.979,3.47e-11,kappa counted as estimated parameter; R2 = 0.9495
+state+year,"two-segment, fixed breakpoint 63.1",63.1,3144,38,94340990.8,32488.05,34.59,1.334,-6.046,,kappa fixed
+state+year,"two-segment, fixed breakpoint 63.2",63.2,3144,38,94336577.2,32487.9,34.74,1.325,-6.118,,kappa fixed
+state+year,"two-segment, fixed breakpoint 68.5",68.5,3144,38,94164498.0,32482.16,40.48,0.813,-12.171,,kappa fixed
+state+month+year,threshold-linear (zero pre-breakpoint slope),66.2,3144,49,87646055.0,32278.62,49.36,0.0,-14.821,0.00e+00,threshold-linear; kappa counted as estimated parameter

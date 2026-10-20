@@ -1,0 +1,39 @@
+{
+  "title": "Global livestock heat stress losses with endogenized adaptation feasibility (2000-2024): revised data and code (v5)",
+  "upload_type": "dataset",
+  "publication_date": "2026-10-20",
+  "version": "5.0",
+  "language": "eng",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "description": "<p>Revised data and code accompanying the manuscript <em>Cost-effective adaptation can avert less than one-tenth of global livestock heat-stress losses</em> (prepared for Nature Food, 2026).</p><p>Contents: derived data for 2000-2024 at THI thresholds 68, 72, 75 and 78 (species-level gross, avoidable and residual losses, and value per head in 2005 constant USD); the subset of core model outputs and payback-horizon runs; a data dictionary; and the analysis scripts (loss model, adaptation/payback model, threshold-versus-linear bias, physical incompatibility area, and the US NASS reanalysis).</p><p>Headline results (2024, THI >= 72, FAOSTAT-scaled, 5-year payback): gross losses US$289.57 billion (2005 constant prices); avoidable US$27.32 billion (9.4%); residual US$262.25 billion (90.6%); avoidable share 8.0-13.4% across 3/10-year payback horizons; heat-induced increase in enteric methane intensity 0.8-3.3%, +0.09 Gt CO2eq per year (2.6% of livestock methane); gross losses grew 47.6% between 2000 and 2024.</p><p>The US NASS state-month panel (n = 3,144, 24 states, 2013-2025) supports a threshold response under a threshold-linear model with state, month and year fixed effects: breakpoint THI 66.2, post-threshold slope -14.8 lbs per cow per month per THI unit, delta-AIC = 49.4 (unconstrained two-segment sensitivity: THI 63.1, delta-AIC = 54.8). The merged panel and model-comparison output are included as Supplementary Data 4 and 5.</p>",
+  "keywords": [
+    "livestock",
+    "heat stress",
+    "climate change adaptation",
+    "economic losses",
+    "methane emissions",
+    "threshold dose-response",
+    "food systems",
+    "Nature Food"
+  ],
+  "creators": [
+    {"name": "Gao, Baocai", "affiliation": "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory for Sustainable Utilization of Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong 666100, China"},
+    {"name": "Xiao, Mingxia", "affiliation": "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory for Sustainable Utilization of Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong 666100, China"},
+    {"name": "Sun, Mingfa", "affiliation": "College of Agriculture and Forestry Sciences, Linyi University, Linyi 276000, China"},
+    {"name": "Xing, Jinyi", "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China; Peanut High-Value Processing Engineering Research Center of Shandong Province, Linyi 276000, China"},
+    {"name": "Wang, Yan", "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China"},
+    {"name": "Zhou, Lei", "affiliation": "Linyi Animal Disease Prevention and Control Center, Linyi 276000, China"},
+    {"name": "Kang, Dacheng", "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China"},
+    {"name": "Hu, Jing", "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China"},
+    {"name": "Mahfuz, Shad", "affiliation": "Department of Animal Nutrition, Faculty of Veterinary, Animal and Biomedical Sciences, Sylhet Agricultural University, Sylhet 3100, Bangladesh"},
+    {"name": "Zhang, Qianqian", "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China; Functional Pet Food Engineering Research Center of Shandong Province, Linyi 276000, China"},
+    {"name": "Zhang, Jianying", "affiliation": "College of Life Sciences, Linyi University, Linyi 276000, China; Shandong Key Laboratory of Biological Preparation and Application Technology for Functional Glycomics, Linyi 276000, China"}
+  ],
+  "related_identifiers": [
+    {"identifier": "https://github.com/670646834-droid/livestock-heatstress-global", "relation": "isSupplementedBy", "scheme": "url"},
+    {"identifier": "10.5281/zenodo.23476982", "relation": "isVersionOf", "scheme": "doi"}
+  ],
+  "communities": [],
+  "notes": "This version (v5, 2026-10-20) adds the corrected US NASS panel and model comparison (Supplementary Data 4-5), the NASS reanalysis script, a data dictionary, the validated loss series used in the manuscript (289.57/27.32/262.25 billion USD, 9.4% avoidable), and corrected figure/data descriptions. It supersedes the 2026-10-19 deposit."
+}
